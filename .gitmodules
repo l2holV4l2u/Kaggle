@@ -1,0 +1,3 @@
+[submodule "FideGoogleChessAI"]
+	path = FideGoogleChessAI
+	url = https://github.com/l2holV4l2u/fide-google-efficient-chess-ai-challenge.git
